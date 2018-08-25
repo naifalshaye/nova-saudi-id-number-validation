@@ -1,0 +1,32 @@
+{
+    "name": "naif/saudi_id_number",
+    "description": "Saudi national ID number validation field for laravel nova.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "id_number",
+        "saudi",
+        "nin"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Naif\\SaudiIdNumber\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Naif\\SaudiIdNumber\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
