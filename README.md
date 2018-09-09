@@ -22,6 +22,11 @@ SaudiIdNumber::make('id_number')
 ```
 ## Credits
 [Abdul-Aziz Al-Oraij](https://aziz.oraij.com/)
-## License
 
+## Support:
+naif@naif.io
+
+https://www.linkedin.com/in/naif
+
+## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
